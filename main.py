@@ -8,11 +8,11 @@ print("-----------------------------")
 
 # TODO 1: Print your quiz question
 # Example: print("What is 2 + 2?")
-print("ENTER YOUR QUIZ QUESTION HERE")
+print("How many licks does it take to get to the middle of a tootsie pop ")
 
 # TODO 2: Ask the user for their answer
 # Convert to int() only if you are comparing numbers
-answer = input("Enter your answer: ")
+answer = input("Enter your answer: 20 ")
 
 # TODO 3: Create at least THREE possible outcomes using:
 # - if
