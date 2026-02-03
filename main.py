@@ -15,10 +15,12 @@ print("How many licks does it take to get to the middle of a tootsie pop ")
 answer = input("Enter your answer: 20 ")
 
 # TODO 3: Create at least THREE possible outcomes using:
-# - if
-# - elif
-# - else
-#
+# - if == "20":
+print("Correct! 20 right.")
+# - elif == "19":
+print("Almost. The answer is 20.")
+# - else:
+print("Incorrect. The answer is 20.")
 # Each outcome should print a different message
 # Example ideas:
 # - Correct answer
